@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="UTF-8">
+	<title></title>
+</head>
+
+<body>
+</body>
+<script>
+	// target最上面要空一行、最下面空两行
+	function transform(target) {
+		if (typeof target === 'string') {
+			var reg = /^\d/;
+			return target.split('\n').map((v, index) => {
+				if (!reg.test(v)) {
+					return ((index % 17) - 1) + '.' + v;
+				} else {
+					return v;
+				}
+			}).join('\n');
+		}
+		return null;
+	}
+</script>
+
+</html>
