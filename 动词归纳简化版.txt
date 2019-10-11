@@ -1,0 +1,95 @@
+一类动词：结尾为u段，且不为二类三类的动词
+二类动词：结尾为ru，且倒数第二个为i段和e段动词，（不绝对，例如：shiru，倒数第二个假名包括在中文文字中）
+三类动词：
+ka变：kuru
+sa变：结尾为suru
+
+未然形，否定形
+一类：u段变为a段假名，u变为wa，再加上nai
+二类：去ru，再加上nai
+三类：
+ka变：konai
+sa变：suru变为shi，再加上nai
+
+连用形：
+一类动词：
+后接动词、形容词、masu时，u段变为i段假名
+最后的假名为nu、bu、mu时，最后假名变为nn后续te形或ta形要浊化为de或da
+最后的假名为su时，最后假名变为shi
+最后的假名为ku或gu时，最后假名变为i，后续如果为ku则为te或ta，如果为gu则为de或da
+最后的假名为u、tsu、ru时，最后假名变为小写tsu
+二类动词：
+去掉最后的ru
+三类动词：
+ka变：ku变为ki
+sa变：suru变为shi
+
+连体形：
+动词有形容词词性，例如：見る本，看的书
+
+假定形，（如果。。。）都变为e段
+一类动词：
+最后假名变为e段假名，加ba，買えば
+二类动词：
+最后假名变为e段假名，加ba，遊べれば
+三类动词：
+ka变：kureba
+sa变：最后假名变为e段假名，加ba，勉強すれば
+
+命令形：
+一类动词：
+u段假名变为e段假名
+二类动词：
+ru变为ro或yo
+三类动词：
+ka变：koi或koyo
+sa变：suru变为shiro或seyo
+
+意志形，意向形
+一类动词：
+最后假名变为o段加u
+二类动词：
+去ru加you
+三类动词：
+ka变：koyou
+sa变：suru变为shiyou
+
+敬体
+kaku kakimasu kakimasenn kakimasenndeshita
+miru mimasu mimasenn mimasenndeshita
+kuru kimasu kimasenn kimasenndeshita
+bennkyousuru bennkyoushimasu bennkyoushimasenn bennkyoushimasenndeshita
+
+简体
+kaku kakanai kaita kakanakatta
+miru minai mita minakatta
+kuru konai kita konakatta
+suru shinai shita shinakatta
+
+态：
+能动态，可能形（能，可以）
+一类动词：
+最后假名变为e段假名加ru
+二类动词：
+去ru加rareru
+三类动词：
+ka变：korareru
+sa变：去suru加dekiru
+
+被动态
+一类动词：
+最后假名变为a段，加reru
+二类动词：
+去ru加sareru
+三类动词：
+ka变：korareru
+sa变：去suru加sareru
+
+使动态
+一类动词：
+最后假名变为a段，加seru
+二类动词：
+去ru加saseru  ら抜き言葉
+三类动词：
+ka变：kosaseru
+sa变：去suru加saseru
